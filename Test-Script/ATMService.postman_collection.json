@@ -1,0 +1,69 @@
+{
+	"info": {
+		"_postman_id": "fe808e35-00ff-4bbc-83fd-9b7816826ecd",
+		"name": "ATMService",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "localhost:8760/api/v1/transactions/withdraw",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "    {\n        \"pin\":1234,       \n         \"cardNo\":\"123456789111\",\n        \"amount\":1.0\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8092/api/v1/transactions/withdraw",
+					"host": [
+						"localhost"
+					],
+					"port": "8092",
+					"path": [
+						"api",
+						"v1",
+						"transactions",
+						"withdraw"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8760/api/v1/transactions/deposit",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "    {\n        \"pin\":1234,       \n         \"cardNo\":\"123456789111\",\n        \"amount\":1.0\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8760/api/v1/transactions/deposit",
+					"host": [
+						"localhost"
+					],
+					"port": "8760",
+					"path": [
+						"api",
+						"v1",
+						"transactions",
+						"deposit"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
