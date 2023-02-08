@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="706" it="0" lt="705" ct="3" ts="1675855468811" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-12" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="689" it="0" lt="689" ct="2" ts="1675855468829" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-17" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="741" it="0" lt="741" ct="14" ts="1675855468796" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-8" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="710" it="0" lt="710" ct="5" ts="1675855468835" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-20" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="718" it="0" lt="718" ct="2" ts="1675855468830" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-18" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="729" it="0" lt="729" ct="8" ts="1675855468868" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-24" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="773" it="0" lt="773" ct="1" ts="1675855468828" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-16" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="767" it="0" lt="767" ct="4" ts="1675855468847" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-22" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="812" it="0" lt="812" ct="4" ts="1675855468817" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-14" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="825" it="0" lt="824" ct="7" ts="1675855468858" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-23" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="821" it="0" lt="821" ct="4" ts="1675855468840" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-21" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="943" it="0" lt="943" ct="2" ts="1675855468808" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-11" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="974" it="0" lt="973" ct="16" ts="1675855468796" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-6" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="985" it="0" lt="985" ct="8" ts="1675855468895" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-26" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="942" it="0" lt="942" ct="0" ts="1675855468938" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-32" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="949" it="0" lt="949" ct="1" ts="1675855468931" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-29" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1085" it="0" lt="1085" ct="12" ts="1675855468795" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-7" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1058" it="0" lt="1058" ct="3" ts="1675855468822" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-15" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1087" it="0" lt="1087" ct="18" ts="1675855468793" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-2" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1067" it="0" lt="1067" ct="2" ts="1675855468813" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-13" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="935" it="0" lt="935" ct="1" ts="1675855468946" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-37" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="935" it="0" lt="935" ct="1" ts="1675855468946" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-36" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="931" it="0" lt="931" ct="1" ts="1675855468950" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-40" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="928" it="0" lt="928" ct="0" ts="1675855468953" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-42" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="934" it="0" lt="934" ct="1" ts="1675855468947" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-38" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1047" it="0" lt="1047" ct="1" ts="1675855468833" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-19" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="958" it="0" lt="958" ct="0" ts="1675855468943" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-34" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="863" it="0" lt="862" ct="1" ts="1675855469076" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-56" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1009" it="0" lt="1008" ct="1" ts="1675855468944" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-35" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1026" it="0" lt="1026" ct="1" ts="1675855468934" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-31" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1018" it="0" lt="1018" ct="1" ts="1675855468948" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-39" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1013" it="0" lt="1013" ct="1" ts="1675855468959" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-49" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1066" it="0" lt="1066" ct="6" ts="1675855468908" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-27" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1023" it="0" lt="1023" ct="0" ts="1675855468968" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-52" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1037" it="0" lt="1036" ct="1" ts="1675855468955" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-46" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1040" it="0" lt="1039" ct="1" ts="1675855468954" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-44" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1037" it="0" lt="1037" ct="1" ts="1675855468957" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-48" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1046" it="0" lt="1045" ct="1" ts="1675855468952" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-41" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1043" it="0" lt="1043" ct="1" ts="1675855468955" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-45" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="979" it="0" lt="978" ct="1" ts="1675855469021" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-53" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1065" it="0" lt="1063" ct="1" ts="1675855468939" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-33" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1041" it="0" lt="1041" ct="1" ts="1675855468963" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-50" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="984" it="0" lt="984" ct="1" ts="1675855469033" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-54" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="949" it="0" lt="949" ct="1" ts="1675855469082" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-58" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1124" it="0" lt="1123" ct="1" ts="1675855469101" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-62" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1077" it="0" lt="1077" ct="1" ts="1675855469110" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-64" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1110" it="0" lt="1110" ct="1" ts="1675855469081" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-57" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1074" it="0" lt="1074" ct="4" ts="1675855469127" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-74" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1086" it="0" lt="1086" ct="2" ts="1675855469122" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-70" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1098" it="0" lt="1098" ct="1" ts="1675855469118" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-68" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1378" it="0" lt="1378" ct="8" ts="1675855468801" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-9" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1077" it="0" lt="1077" ct="1" ts="1675855469118" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-69" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1377" it="0" lt="1377" ct="12" ts="1675855468797" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-5" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1258" it="0" lt="1258" ct="0" ts="1675855468933" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-30" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1180" it="0" lt="1107" ct="0" ts="1675855469125" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-72" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1409" it="0" lt="1408" ct="1" ts="1675855468916" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-28" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="809" it="0" lt="809" ct="0" ts="1675855469518" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-12" dt="text" by="215" sby="265" ng="100" na="100">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1386" it="0" lt="1385" ct="0" ts="1675855468953" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-43" dt="text" by="215" sby="265" ng="99" na="99">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="827" it="0" lt="827" ct="0" ts="1675855469518" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-17" dt="text" by="215" sby="265" ng="99" na="99">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1247" it="0" lt="1246" ct="2" ts="1675855469099" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-61" dt="text" by="215" sby="265" ng="99" na="99">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1259" it="0" lt="1259" ct="1" ts="1675855469092" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-60" dt="text" by="215" sby="265" ng="98" na="98">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1409" it="0" lt="1408" ct="1" ts="1675855468957" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-47" dt="text" by="215" sby="265" ng="98" na="98">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1217" it="0" lt="1217" ct="1" ts="1675855469161" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-84" dt="text" by="215" sby="265" ng="98" na="98">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1089" it="0" lt="1089" ct="2" ts="1675855469302" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-90" dt="text" by="215" sby="265" ng="98" na="98">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1619" it="0" lt="1619" ct="13" ts="1675855468797" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-4" dt="text" by="215" sby="265" ng="98" na="98">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1630" it="0" lt="1628" ct="13" ts="1675855468796" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-3" dt="text" by="215" sby="265" ng="98" na="98">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1270" it="0" lt="1270" ct="0" ts="1675855469163" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-86" dt="text" by="215" sby="265" ng="98" na="98">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="899" it="0" lt="899" ct="0" ts="1675855469538" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-8" dt="text" by="215" sby="265" ng="98" na="98">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1321" it="0" lt="1321" ct="1" ts="1675855469124" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-71" dt="text" by="215" sby="265" ng="97" na="97">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1387" it="0" lt="1387" ct="3" ts="1675855469064" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-55" dt="text" by="215" sby="265" ng="97" na="97">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1124" it="0" lt="1123" ct="1" ts="1675855469337" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-94" dt="text" by="215" sby="265" ng="97" na="97">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1584" it="0" lt="1584" ct="4" ts="1675855468888" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-25" dt="text" by="215" sby="265" ng="97" na="97">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1313" it="0" lt="1313" ct="1" ts="1675855469165" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-89" dt="text" by="215" sby="265" ng="97" na="97">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1351" it="0" lt="1351" ct="2" ts="1675855469135" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-75" dt="text" by="215" sby="265" ng="97" na="97">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1328" it="0" lt="1328" ct="0" ts="1675855469163" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-85" dt="text" by="215" sby="265" ng="97" na="97">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1423" it="0" lt="1420" ct="1" ts="1675855469112" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-65" dt="text" by="215" sby="265" ng="97" na="97">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1426" it="0" lt="1425" ct="3" ts="1675855469113" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-66" dt="text" by="215" sby="265" ng="97" na="97">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="995" it="0" lt="990" ct="0" ts="1675855469549" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-18" dt="text" by="215" sby="265" ng="97" na="97">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1198" it="0" lt="1198" ct="1" ts="1675855469346" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-98" dt="text" by="215" sby="265" ng="97" na="97">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1210" it="0" lt="1210" ct="1" ts="1675855469335" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-93" dt="text" by="215" sby="265" ng="96" na="96">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="999" it="0" lt="999" ct="0" ts="1675855469546" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-20" dt="text" by="215" sby="265" ng="96" na="96">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1036" it="0" lt="1036" ct="0" ts="1675855469602" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-16" dt="text" by="215" sby="265" ng="95" na="95">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1519" it="0" lt="1519" ct="1" ts="1675855469126" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-73" dt="text" by="215" sby="265" ng="94" na="94">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1582" it="0" lt="1582" ct="2" ts="1675855469085" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-59" dt="text" by="215" sby="265" ng="94" na="94">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1038" it="0" lt="1038" ct="0" ts="1675855469630" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-14" dt="text" by="215" sby="265" ng="94" na="94">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1563" it="0" lt="1563" ct="1" ts="1675855469115" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-67" dt="text" by="215" sby="265" ng="93" na="93">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1560" it="0" lt="1560" ct="2" ts="1675855469134" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-76" dt="text" by="215" sby="265" ng="93" na="93">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1556" it="0" lt="1556" ct="0" ts="1675855469151" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-79" dt="text" by="215" sby="265" ng="93" na="93">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1567" it="0" lt="1567" ct="1" ts="1675855469151" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-81" dt="text" by="215" sby="265" ng="93" na="93">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1567" it="0" lt="1567" ct="0" ts="1675855469164" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-87" dt="text" by="215" sby="265" ng="93" na="93">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1936" it="0" lt="1936" ct="3" ts="1675855468806" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-10" dt="text" by="215" sby="265" ng="93" na="93">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1468" it="0" lt="1468" ct="1" ts="1675855469340" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-96" dt="text" by="215" sby="265" ng="93" na="93">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1457" it="0" lt="1457" ct="1" ts="1675855469351" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-100" dt="text" by="215" sby="265" ng="93" na="93">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1485" it="0" lt="1485" ct="2" ts="1675855469333" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-92" dt="text" by="215" sby="265" ng="93" na="93">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2120" it="0" lt="1705" ct="1" ts="1675855469107" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-63" dt="text" by="215" sby="265" ng="93" na="93">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2104" it="0" lt="2104" ct="3" ts="1675855469152" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-80" dt="text" by="215" sby="265" ng="93" na="93">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1657" it="0" lt="1657" ct="0" ts="1675855469614" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-22" dt="text" by="215" sby="265" ng="93" na="93">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1935" it="0" lt="1935" ct="2" ts="1675855469341" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-97" dt="text" by="215" sby="265" ng="92" na="92">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1569" it="0" lt="1567" ct="0" ts="1675855469721" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-21" dt="text" by="215" sby="265" ng="92" na="92">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1966" it="0" lt="1965" ct="1" ts="1675855469330" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-91" dt="text" by="215" sby="265" ng="91" na="91">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1976" it="0" lt="1975" ct="0" ts="1675855469339" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-95" dt="text" by="215" sby="265" ng="91" na="91">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1976" it="0" lt="1976" ct="1" ts="1675855469349" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-99" dt="text" by="215" sby="265" ng="91" na="91">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1612" it="0" lt="1611" ct="0" ts="1675855469721" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-23" dt="text" by="215" sby="265" ng="91" na="91">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1595" it="0" lt="1594" ct="0" ts="1675855469754" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-11" dt="text" by="215" sby="265" ng="90" na="90">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1592" it="0" lt="1592" ct="0" ts="1675855469772" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-6" dt="text" by="215" sby="265" ng="89" na="89">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1496" it="0" lt="1494" ct="0" ts="1675855469883" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-32" dt="text" by="215" sby="265" ng="88" na="88">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1512" it="0" lt="1512" ct="0" ts="1675855469885" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-36" dt="text" by="215" sby="265" ng="87" na="87">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1526" it="0" lt="1526" ct="0" ts="1675855469884" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-2" dt="text" by="215" sby="265" ng="86" na="86">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1543" it="0" lt="1542" ct="0" ts="1675855469883" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-7" dt="text" by="215" sby="265" ng="85" na="85">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1551" it="0" lt="1550" ct="0" ts="1675855469883" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-29" dt="text" by="215" sby="265" ng="84" na="84">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1505" it="0" lt="1504" ct="0" ts="1675855469941" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-56" dt="text" by="215" sby="265" ng="83" na="83">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1520" it="0" lt="1520" ct="0" ts="1675855469955" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-35" dt="text" by="215" sby="265" ng="82" na="82">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1541" it="0" lt="1541" ct="0" ts="1675855469963" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-31" dt="text" by="215" sby="265" ng="81" na="81">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1635" it="0" lt="1635" ct="0" ts="1675855469884" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-13" dt="text" by="215" sby="265" ng="80" na="80">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1644" it="0" lt="1644" ct="0" ts="1675855469885" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-40" dt="text" by="215" sby="265" ng="79" na="79">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1568" it="0" lt="1568" ct="0" ts="1675855469969" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-39" dt="text" by="215" sby="265" ng="78" na="78">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1666" it="0" lt="1666" ct="0" ts="1675855469882" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-26" dt="text" by="215" sby="265" ng="77" na="77">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2441" it="0" lt="2441" ct="1" ts="1675855469146" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-77" dt="text" by="215" sby="265" ng="76" na="76">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2001" it="0" lt="1998" ct="0" ts="1675855469598" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-24" dt="text" by="215" sby="265" ng="76" na="76">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2811" it="0" lt="2811" ct="19" ts="1675855468792" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-1" dt="text" by="215" sby="265" ng="75" na="75">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1729" it="0" lt="1729" ct="0" ts="1675855469885" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-42" dt="text" by="215" sby="265" ng="75" na="75">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1732" it="0" lt="1732" ct="0" ts="1675855469903" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-34" dt="text" by="215" sby="265" ng="74" na="74">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1764" it="0" lt="1764" ct="0" ts="1675855469886" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-19" dt="text" by="215" sby="265" ng="73" na="73">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1680" it="0" lt="1680" ct="0" ts="1675855469977" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-27" dt="text" by="215" sby="265" ng="72" na="72">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1672" it="0" lt="1672" ct="0" ts="1675855469993" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-52" dt="text" by="215" sby="265" ng="71" na="71">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1675" it="0" lt="1674" ct="0" ts="1675855469996" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-48" dt="text" by="215" sby="265" ng="70" na="70">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1703" it="0" lt="1703" ct="0" ts="1675855469975" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-49" dt="text" by="215" sby="265" ng="69" na="69">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1696" it="0" lt="1696" ct="0" ts="1675855469995" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-46" dt="text" by="215" sby="265" ng="68" na="68">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1705" it="0" lt="1705" ct="0" ts="1675855469996" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-44" dt="text" by="215" sby="265" ng="67" na="67">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1675" it="0" lt="1675" ct="0" ts="1675855470033" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-58" dt="text" by="215" sby="265" ng="66" na="66">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1718" it="0" lt="1718" ct="0" ts="1675855470000" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-41" dt="text" by="215" sby="265" ng="65" na="65">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1742" it="0" lt="1742" ct="0" ts="1675855470000" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-45" dt="text" by="215" sby="265" ng="64" na="64">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1752" it="0" lt="1752" ct="0" ts="1675855470003" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-53" dt="text" by="215" sby="265" ng="63" na="63">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1751" it="0" lt="1750" ct="0" ts="1675855470021" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-54" dt="text" by="215" sby="265" ng="62" na="62">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1779" it="0" lt="1779" ct="0" ts="1675855470006" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-33" dt="text" by="215" sby="265" ng="61" na="61">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="3184" it="0" lt="3184" ct="1" ts="1675855469165" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-88" dt="text" by="215" sby="265" ng="60" na="60">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2354" it="0" lt="2354" ct="0" ts="1675855470006" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-50" dt="text" by="215" sby="265" ng="60" na="60">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2089" it="0" lt="2089" ct="0" ts="1675855470278" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-74" dt="text" by="215" sby="265" ng="59" na="59">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2100" it="0" lt="2100" ct="0" ts="1675855470280" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-30" dt="text" by="215" sby="265" ng="58" na="58">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2107" it="0" lt="2106" ct="0" ts="1675855470279" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-5" dt="text" by="215" sby="265" ng="57" na="57">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2120" it="0" lt="2120" ct="0" ts="1675855470278" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-70" dt="text" by="215" sby="265" ng="56" na="56">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2127" it="0" lt="2127" ct="0" ts="1675855470279" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-69" dt="text" by="215" sby="265" ng="55" na="55">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2135" it="0" lt="2134" ct="0" ts="1675855470279" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-9" dt="text" by="215" sby="265" ng="54" na="54">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2142" it="0" lt="2142" ct="0" ts="1675855470278" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-57" dt="text" by="215" sby="265" ng="53" na="53">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2150" it="0" lt="2150" ct="0" ts="1675855470278" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-62" dt="text" by="215" sby="265" ng="52" na="52">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2158" it="0" lt="2157" ct="0" ts="1675855470279" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-68" dt="text" by="215" sby="265" ng="51" na="51">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2137" it="0" lt="2137" ct="0" ts="1675855470308" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-72" dt="text" by="215" sby="265" ng="50" na="50">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2112" it="0" lt="2111" ct="0" ts="1675855470341" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-43" dt="text" by="215" sby="265" ng="49" na="49">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2132" it="0" lt="2132" ct="0" ts="1675855470328" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-28" dt="text" by="215" sby="265" ng="48" na="48">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2119" it="0" lt="2119" ct="0" ts="1675855470348" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-61" dt="text" by="215" sby="265" ng="47" na="47">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2121" it="0" lt="2121" ct="0" ts="1675855470353" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-60" dt="text" by="215" sby="265" ng="46" na="46">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2115" it="0" lt="2114" ct="0" ts="1675855470368" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-47" dt="text" by="215" sby="265" ng="45" na="45">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2110" it="0" lt="2110" ct="0" ts="1675855470380" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-84" dt="text" by="215" sby="265" ng="44" na="44">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2103" it="0" lt="2103" ct="0" ts="1675855470394" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-90" dt="text" by="215" sby="265" ng="43" na="43">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2086" it="0" lt="2086" ct="0" ts="1675855470418" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-4" dt="text" by="215" sby="265" ng="42" na="42">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2082" it="0" lt="2082" ct="0" ts="1675855470429" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-3" dt="text" by="215" sby="265" ng="41" na="41">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2082" it="0" lt="2082" ct="0" ts="1675855470436" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-86" dt="text" by="215" sby="265" ng="40" na="40">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2078" it="0" lt="2078" ct="0" ts="1675855470448" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-71" dt="text" by="215" sby="265" ng="39" na="39">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2079" it="0" lt="2079" ct="0" ts="1675855470454" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-55" dt="text" by="215" sby="265" ng="38" na="38">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2076" it="0" lt="2076" ct="0" ts="1675855470463" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-94" dt="text" by="215" sby="265" ng="37" na="37">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2071" it="0" lt="2071" ct="0" ts="1675855470475" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-25" dt="text" by="215" sby="265" ng="36" na="36">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2083" it="0" lt="2083" ct="0" ts="1675855470481" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-89" dt="text" by="215" sby="265" ng="35" na="35">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2088" it="0" lt="2088" ct="0" ts="1675855470489" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-75" dt="text" by="215" sby="265" ng="34" na="34">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2089" it="0" lt="2088" ct="0" ts="1675855470493" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-85" dt="text" by="215" sby="265" ng="33" na="33">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2059" it="0" lt="2058" ct="0" ts="1675855470537" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-65" dt="text" by="215" sby="265" ng="32" na="32">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2055" it="0" lt="2054" ct="0" ts="1675855470547" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-93" dt="text" by="215" sby="265" ng="31" na="31">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2069" it="0" lt="2068" ct="0" ts="1675855470541" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-66" dt="text" by="215" sby="265" ng="30" na="30">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1991" it="0" lt="1990" ct="0" ts="1675855470681" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-67" dt="text" by="215" sby="265" ng="30" na="30">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="3700" it="0" lt="3700" ct="1" ts="1675855468965" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-51" dt="text" by="215" sby="265" ng="30" na="30">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2768" it="0" lt="2768" ct="0" ts="1675855469883" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-15" dt="text" by="215" sby="265" ng="30" na="30">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2088" it="0" lt="2088" ct="0" ts="1675855470546" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-98" dt="text" by="215" sby="265" ng="30" na="30">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1983" it="0" lt="1983" ct="0" ts="1675855470697" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-76" dt="text" by="215" sby="265" ng="26" na="26">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1978" it="0" lt="1978" ct="0" ts="1675855470709" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-79" dt="text" by="215" sby="265" ng="25" na="25">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1974" it="0" lt="1974" ct="0" ts="1675855470720" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-81" dt="text" by="215" sby="265" ng="24" na="24">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1968" it="0" lt="1967" ct="0" ts="1675855470733" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-87" dt="text" by="215" sby="265" ng="23" na="23">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2299" it="0" lt="2299" ct="0" ts="1675855470745" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-10" dt="text" by="215" sby="265" ng="22" na="22">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2248" it="0" lt="2247" ct="0" ts="1675855470811" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-100" dt="text" by="215" sby="265" ng="21" na="21">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="3915" it="0" lt="3915" ct="0" ts="1675855469147" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-78" dt="text" by="215" sby="265" ng="20" na="20">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2261" it="0" lt="2261" ct="0" ts="1675855470811" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-96" dt="text" by="215" sby="265" ng="20" na="20">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1850" it="0" lt="1850" ct="0" ts="1675855471229" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-63" dt="text" by="215" sby="265" ng="19" na="19">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1827" it="0" lt="1827" ct="0" ts="1675855471259" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-80" dt="text" by="215" sby="265" ng="18" na="18">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1815" it="0" lt="1815" ct="0" ts="1675855471279" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-97" dt="text" by="215" sby="265" ng="17" na="17">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1802" it="0" lt="1802" ct="0" ts="1675855471299" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-91" dt="text" by="215" sby="265" ng="16" na="16">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1794" it="0" lt="1794" ct="0" ts="1675855471317" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-95" dt="text" by="215" sby="265" ng="15" na="15">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1791" it="0" lt="1791" ct="0" ts="1675855471328" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-99" dt="text" by="215" sby="265" ng="14" na="14">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1534" it="0" lt="1534" ct="0" ts="1675855471592" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-77" dt="text" by="215" sby="265" ng="13" na="13">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="1527" it="0" lt="1527" ct="0" ts="1675855471607" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-1" dt="text" by="215" sby="265" ng="12" na="12">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="789" it="0" lt="789" ct="0" ts="1675855472352" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-88" dt="text" by="215" sby="265" ng="11" na="11">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="474" it="0" lt="474" ct="0" ts="1675855472674" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-51" dt="text" by="215" sby="265" ng="10" na="10">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="99" it="0" lt="99" ct="0" ts="1675855473065" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-78" dt="text" by="215" sby="265" ng="9" na="9">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="3501" it="0" lt="3501" ct="0" ts="1675855469884" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-37" dt="text" by="215" sby="265" ng="8" na="8">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="2593" it="0" lt="2593" ct="0" ts="1675855470821" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-92" dt="text" by="215" sby="265" ng="7" na="7">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="3048" it="0" lt="3048" ct="0" ts="1675855470670" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-59" dt="text" by="215" sby="265" ng="6" na="6">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="3796" it="0" lt="3796" ct="0" ts="1675855469886" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-38" dt="text" by="215" sby="265" ng="6" na="6">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="4530" it="0" lt="4530" ct="1" ts="1675855469159" s="false" lb="HTTP Request" rc="500" rm="Internal Server Error" tn="TransactionServiceThrad 1-82" dt="text" by="155" sby="265" ng="6" na="6">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="4545" it="0" lt="4545" ct="1" ts="1675855469160" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-83" dt="text" by="215" sby="265" ng="6" na="6">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="3078" it="0" lt="3077" ct="0" ts="1675855470647" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-73" dt="text" by="215" sby="265" ng="6" na="6">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="3433" it="0" lt="3433" ct="0" ts="1675855470278" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-64" dt="text" by="215" sby="265" ng="6" na="6">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="26" it="0" lt="26" ct="0" ts="1675855473765" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-82" dt="text" by="215" sby="265" ng="2" na="2">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="332" it="0" lt="332" ct="0" ts="1675855473767" s="true" lb="HTTP Request" rc="200" rm="OK" tn="TransactionServiceThrad 1-83" dt="text" by="215" sby="265" ng="1" na="1">
+  <java.net.URL>http://localhost:8760/api/v1/transactions/withdraw</java.net.URL>
+</httpSample>
+
+</testResults>
