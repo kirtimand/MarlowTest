@@ -13,8 +13,9 @@
 ![ATMService](https://user-images.githubusercontent.com/84015066/217490709-fabc4721-a85a-4204-b46a-494d7c8d2675.jpg)
 
 
-
-
+### Logging
+Log4j is used for logging service details,
+Trace ID can be used to track transactions between microservices (ATM Service & Notification Service)
 
 ### Build & Execute services individually
 1) For each microservice execute:
@@ -22,6 +23,7 @@
 2) java -jar target/.jar   
 
 Path to config file: https://github.com/kirtimand/configuration.git
+
 
 
 ### Testing:
