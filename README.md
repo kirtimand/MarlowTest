@@ -18,7 +18,7 @@
 
 ### Build & Execute services individually
 1) For each microservice execute:
-  mvn clean
+  mvn install
 2) java -jar target/.jar   
 
 Path to config file: https://github.com/kirtimand/configuration.git
