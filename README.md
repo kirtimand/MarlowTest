@@ -7,10 +7,6 @@
 4) ATM Service 
 5) Notification Service
 
-### Database:
-My SQL 
-
-
 
 ### Architecture:
 
