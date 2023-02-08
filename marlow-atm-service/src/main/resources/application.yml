@@ -1,8 +1,7 @@
 
 spring:     
   application:
-    name: marlow-atm-service-1   #service name, this will appear in eureka server homepage
+    name: marlow-atm-service   #service name, this will appear in eureka server homepage
   config:
-    import: ${CONFIG_SERVER:http://localhost:8090/}
-
+    import: optional:configserver:http://localhost:8090
  
