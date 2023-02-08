@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/kirtinile/configuration.git
+          uri: https://github.com/kirtimand/configuration.git
           search-paths: configuration
           default-label: main
 
