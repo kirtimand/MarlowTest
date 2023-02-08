@@ -1,4 +1,10 @@
 # ATM-Service
+   ### DB Details
+      Database : MySQL
+      Note: All confiurations are done using application.yml file, configuration will need database to be created manually
+      Initialization :
+         ATM service has schema.sql and data.sql file 
+
 
 ### API Details:
 
