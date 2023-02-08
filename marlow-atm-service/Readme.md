@@ -56,7 +56,9 @@ Note
 ```
     {
         "errors": [
-            "Card Number must be 12 characters"
+            "Card Number must be 12 characters",
+            "Please enter valid PIN",
+            "Amount should be greater then 0 and less then 100000"
         ]
     }
     
