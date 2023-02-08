@@ -1,0 +1,6 @@
+
+spring:     
+  application:
+    name: marlow-notification-service   #service name, this will appear in eureka server homepage
+  config:
+    import: ${optional:CONFIG_SERVER:http://localhost:8090/}
