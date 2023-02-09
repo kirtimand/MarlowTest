@@ -19,8 +19,11 @@ Trace ID can be used to track transactions between microservices (ATM Service & 
 
 ### Build & Execute services individually
 1) For each microservice execute:
-  mvn install
-2) java -jar target/.jar   
+  cd /service
+  mvn -q clean spring-boot:run 
+          or
+  mvn install 
+  java -jar target/.jar   
 
 Path to config file: https://github.com/kirtimand/configuration.git
 
